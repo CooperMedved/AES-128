@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/aes.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aes128_core
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/keyexpansion.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module subword
+INFO: [VRFC 10-311] analyzing module kexp_word
+INFO: [VRFC 10-311] analyzing module aes128_key_expand
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/mixcolumns.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mixcolumns
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/s-box.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module s_box
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/shiftrows.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftrows
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/sub_byte.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sub_byte
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/uart_rx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_rx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/uart_tx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_tx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sources_1/new/top_aes_uart.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_uart_aes
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/AES part 5/AES part 5.srcs/sim_1/new/tb_aes.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_aes128_ecb

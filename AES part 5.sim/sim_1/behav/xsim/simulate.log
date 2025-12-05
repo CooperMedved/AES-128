@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+R0 (AddRoundKey): state=01102030405060708090a0b0c0d0e0f0  rk=000102030405060708090a0b0c0d0e0f
+R1: state=b7c70fc9855ace682d1843d8cb128fe4  rk=d6aa74fdd2af72fadaa678f1d6ab76fe
+R2: state=551b579d13a31d2c6615f746ed5fc450  rk=b692cf0b643dbdf1be9bc5006830b3fe
+R3: state=70fca795817737c16a73d59cbad4f801  rk=b6ff744ed2c2c9bf6c590cbf0469bf41
+R4: state=9e2ed1416cd5418d0162485e81e19f77  rk=47f7f7bc95353e03f96c32bcfd058dfd
+R5: state=88a40b55b4755477d87bb0af3d5eeabc  rk=3caaa3e8a99f9deb50f3af57adf622aa
+R6: state=f38b2c9aee07345f530c56e0c60fba99  rk=5e390f7df7a69296a7553dc10aa31f6b
+R7: state=0543e8bee62f1495a157ece383ae411d  rk=14f9701ae35fe28c440adf4d4ea9c026
+R8: state=c4ef8900631444af026b3f89a863503f  rk=47438735a41c65b9e016baf4aebf7ad2
+R9: state=7980a190ac16d0943682bfabe7c14e82  rk=549932d1f08557681093ed9cbe2c974e
+R10 (final): state=a556156c72876577f67f95a9d9e640a7  rk=13111d7fe3944a17f307a78b4d2b30c5
+CT = a556156c72876577f67f95a9d9e640a7  (exp = 69c4e0d86a7b0430d8cdb78070b4c55a)
+[FAIL 0] got=a556156c72876577f67f95a9d9e640a7 exp=69c4e0d86a7b0430d8cdb78070b4c55a
+[PASS 1] ct=3ad77bb40d7a3660a89ecaf32466ef97
+[PASS 2] ct=66e94bd4ef8a2c3b884cfa59ca342b2e
+All tests passed.
+$finish called at time : 575 ns : File "C:/Users/User/AES part 5/AES part 5.srcs/sim_1/new/tb_aes.sv" Line 126
